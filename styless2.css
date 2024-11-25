@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: grid;
+    grid-template-rows: auto auto 1fr auto;
+    grid-template-columns: 1fr;
+    grid-template-areas: 
+      "header"
+      "image"
+      "main"
+      "footer";
+    gap: 20px;
+}
+
+
+header {
+    grid-area: header;
+    text-align: center;
+    background-color: #f8edfd; 
+    padding: 20px;
+}
+
+.img-container {
+    grid-area: image;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+img {
+    width: 15%;
+    border-radius: 10%; /*arredondar*/
+}
+
+
+main {
+    grid-area: main;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 20px;
+}
+
+section {
+    text-align: center;
+    background: #f5eef8; 
+    padding: 20px;
+    border-radius: 10px; /* Bordas arredondadas */
+    line-height: 30px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra leve */
+}
+
+ul {
+    list-style-type: none; /* Remove os marcadores */
+    padding: 0;
+}
+
+
+ul li {
+    background-color: #f5eef8; /* Cor de fundo para os itens */
+    padding: 20px; 
+    margin: 10px 0; 
+    border-radius: 10px; /* Bordas arredondadas */
+    transition: all 0.3s ease; /* Efeito de transição  */
+}
+
+
+footer {
+    grid-area: footer;
+    text-align: center;
+    padding: 10px;
+    background: #333; /* Cor de fundo escuro para o rodapé */
+    color: white; /* Texto branco */
+}
+
+
+a {
+    color: #9c3397; 
+    text-decoration: none; /* Remove o sublinhado */
+}
+
+a:hover {
+    text-decoration: underline; /* Sublinha o link ao passar o mouse */
+}

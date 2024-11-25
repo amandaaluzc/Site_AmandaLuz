@@ -1,0 +1,40 @@
+h1, h2, section {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    background-color: #f5eef8; 
+    padding: 20px; 
+    margin: 15px 0; 
+    border-radius: 10px; 
+    transition: all 0.3s ease; 
+}
+
+/* Efeito ao passar o mouse */
+ul li:hover {
+    background-color: #ffdef9; 
+    transform: translateY(-5px); 
+}
+
+footer {
+    grid-area: footer;
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: white;
+  }
+  
+  a {
+    color: #9c3397;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
