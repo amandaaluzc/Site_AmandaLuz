@@ -20,7 +20,10 @@ O site é dividido em várias seções:
   - Nascida em Recife, 2001.
   - Educação: BabyMel, Colégio Apoio, Colégio Núcleo.
   - Graduação em **Fotografia** pela Universidade Católica de Pernambuco.
-  - Atividades atuais: Cursando **Ciência da Computação** na CESAR School, atuando no **FORJA Game Studio** como GameMaster e Marketing, além de trabalhar como fotógrafa freelancer.
+  - Atividades atuais:
+    - Cursando **Ciência da Computação** na CESAR School
+    - Atuando no **FORJA Game Studio** como GameMaster e Marketing
+    - Trabalhar como fotógrafa freelancer
 
 #### **Minhas Redes Sociais**
 - Links para:
