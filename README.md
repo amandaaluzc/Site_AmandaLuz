@@ -35,7 +35,7 @@ O site é dividido em várias seções:
 - Solução criada para diminuir a quantidade de acidentes envolvendo pedestres por meio de tecnologia interativa.
   
 ##### **Como Funciona**
-- **Totens Interativos**: Instalações em ambos os lados da faixa de pedestres para entretenimento seguro.
+- **Totens Interativos**: Instalações em ambos os lados da faixa de pedestres para diversão e segurança.
 - **Modos de Jogo**:
   - **1 Player**: O jogador reproduz sequências luminosas geradas pelo dispositivo.
   - **2 Players (Modo Competitivo)**: Jogadores competem recriando e ampliando sequências luminosas.
