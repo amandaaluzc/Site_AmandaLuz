@@ -1,2 +1,2 @@
-# Site_AmandaLuz
-Site desenvolvido para a disciplina Introdução a Ciência da Computação
+# Site AmandaLuz
+Projeto dsenvolvido para a disciplina Introdução a Ciência da Computação
